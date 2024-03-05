@@ -1,6 +1,6 @@
 # Zara-Sales-analysis
 
-### About Dataset
+### About Dataset:
 Zara dataset is available on kaggle as the ‘ZARA Sales’ dataset. It consists of the following columns:
 
 - Product ID: Unique identifier for each product.
